@@ -2,8 +2,7 @@
 //  WeatherModel.swift
 //  Clima
 //
-//  Created by Sanjarbek Abdurayimov on 04/04/24.
-//  Copyright © 2024 App Brewery. All rights reserved.
+//  Created by Sanjarbek Abdurayimov on 18/11/2023.
 //
 
 import UIKit
